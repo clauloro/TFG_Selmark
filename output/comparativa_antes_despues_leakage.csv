@@ -1,0 +1,4 @@
+﻿metrica,antes_con_leakage,despues_as_of_2024
+AUC-ROC,0.9828,0.8798
+PR-AUC,0.9732,0.6384
+F1,0.9114,0.5759162303664922
